@@ -1,6 +1,6 @@
 # Ex. No.03  - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-#### DATE: 16.10.2024
+#### DATE: 7.10.2024
 ### AIM: 
  To prototype the given part model design in 3D Printer.
 
@@ -49,7 +49,7 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 7.	Open the file from the USB storage and select the Print option.
 
 ### Output:
-![empd_3](https://github.com/user-attachments/assets/aabc463d-9d8d-4aca-9e85-543bf6e1f96c)
+![EMPD](https://github.com/user-attachments/assets/a8c82718-bea0-4b8b-9615-45ca77ae5ae7)
 
 #### Name: Vincy Jovitha V
 #### Register Number: 212223230242
